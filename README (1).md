@@ -23,21 +23,21 @@ A brief description of what this project does and who it's for
 ## Table of Contents
 
 * [Introduction](#Introduction)
- - [2.	Prerequisites](https://github.com/matiassingers/awesome-readme)
- - [3.	Setting Up Development Environment](https://bulldogjob.com) 
+* [Prerequisites](#Prerequisites)
+* [Setting Up Development Environment](#Setting Up Development Environment) 
    
-    - [Create Dockerized Development Images](https://bulldogjob.com)
-    - [PostgreSQL Database Setup](https://bulldogjob.com)
-    - [Version Control for Dockerfiles](https://bulldogjob.com)
- - [4. Automation with Jenkins Multi-Stage Pipeline](https://bulldogjob.com)
+    + [Create Dockerized Development Images](#Create Dockerized Development Images)
+    + [PostgreSQL Database Setup](#PostgreSQL Database Setup)
+    + [Version Control for Dockerfiles](#Version Control for Dockerfiles)
+ * [Automation with Jenkins Multi-Stage Pipeline](#Automation with Jenkins Multi-Stage Pipeline)
  
 
-    -  [Install Jenkins Plugins](https://bulldogjob.com)
-    -  [Configure Jenkins Integration](https://bulldogjob.com)
-    -  [Write Jenkinsfile](https://bulldogjob.com)
-    -  [Integrate Kubernetes Deployment](https://bulldogjob.com)
- - [5. Implementing CI/CD](https://bulldogjob.com) 
- - [6. Conclusion](https://bulldogjob.com)
+    +  [Install Jenkins Plugins](#Install Jenkins Plugins)
+    +  [Configure Jenkins Integration](#Configure Jenkins Integration)
+    +  [Write Jenkinsfile](#Write Jenkinsfile)
+    +  [Integrate Kubernetes Deployment](#Integrate Kubernetes Deployment)
+ * [Implementing CI/CD](#Implementing CI/CD) 
+ * [Conclusion](#Conclusion)
 
 
 
@@ -45,7 +45,7 @@ A brief description of what this project does and who it's for
 
 This comprehensive guide outlines the process of setting up a robust and scalable development environment using Docker, Kubernetes, PostgreSQL, and Jenkins multi-stage pipelines. The goal is to enhance the development workflow, improve collaboration, and automate the deployment process.
 
-## 2. Prerequisites
+## Prerequisites
 
 Before proceeding, ensure the following prerequisites are met:  
 •	Docker is installed and running.  
@@ -53,7 +53,7 @@ Before proceeding, ensure the following prerequisites are met:
 •	PostgreSQL database server is accessible.  
 •	Jenkins is installed and configured.
 
-## 3. Setting Up Development Environment
+## Setting Up Development Environment
 ### Create Dockerized Development Images
 •	Create Docker images for each application component, including the application services and dependencies.   
 •	Write Dockerfiles to define the environment and    package the applications.  
@@ -65,7 +65,7 @@ Before proceeding, ensure the following prerequisites are met:
 •	Ensure versioning and proper documentation for traceability.
 
 
-## 4. Automation with Jenkins Multi-Stage Pipeline
+## Automation with Jenkins Multi-Stage Pipeline
 ### Install Jenkins Plugins
 •  Install necessary Jenkins plugins, including Docker, Kubernetes, git
 ### Configure Jenkins Integration
@@ -79,10 +79,10 @@ Before proceeding, ensure the following prerequisites are met:
 •	Use Kubernetes manifests (YAML files) for deploying the application.  
 •	Integrate Kubernetes commands into the Jenkins pipeline to apply the manifests.  
 •	Ensure secret management for sensitive Kubernetes configurations.
-## 5. Implementing CI/CD
+## Implementing CI/CD
 •	Set up continuous integration to trigger the Jenkins pipeline on code changes.  
 •	Implement continuous deployment to automatically deploy to development or staging environments.
-##  6. Conclusion
+## Conclusion
 • This guide provides a comprehensive approach to setting up a development environment using Docker, Kubernetes, PostgreSQL, and Jenkins multi-stage pipelines. By following these steps, your development team can achieve an efficient, scalable, and automated workflow, fostering collaboration and ensuring the reliability of your applications.
 
 ## Installation Documents

@@ -1,5 +1,5 @@
 
- ![Alt text](/posts/https://static.wixstatic.com/media/832839_ebb4534fbdbc42c1bf98a5fc67c4a8d3~mv2.png/v1/fill/w_560,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/devops.png "Optional title")
+ ![Alt text](https://static.wixstatic.com/media/832839_ebb4534fbdbc42c1bf98a5fc67c4a8d3~mv2.png/v1/fill/w_560,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/devops.png "Optional title")
 
 
 

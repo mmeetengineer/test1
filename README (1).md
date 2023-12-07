@@ -1,12 +1,7 @@
 
-
 <p align="center">
 <img src="https://www.eginnovations.com/blog/wp-content/uploads/2019/10/devops-stages.png" width="50%" height="50%">
 </p>
-
-
-
-
 
 
 # Comprehensive Guide for Setting up Development Environment 

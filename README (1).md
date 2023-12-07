@@ -101,9 +101,11 @@ Before proceeding, ensure the following prerequisites are met:
  - [5. MultiStage Pipelines](https://bulldogjob.com)
 
 <p>
-   <img src="https://github.com/kubernetes/minikube/raw/master/images/logo/logo.png" width="100" alt="minikube logo">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsnG4_O5xcekXLHmn4zxH5pFXuQEpknhb3g&usqp=CAU" width="100" alt="docker logo">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPhsgRlzQckjgS-p3KTtXr2HmANpjpmeOmA&usqp=CAU" width="100" alt="jenkins logo" width="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgyOeDdfCYkiBKjisVGl2aGJ0Pw9dJW0zIg&usqp=CAU" width="100" alt="minikube logo" width="100" alt="kubernetes logo">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgyOeDdfCYkiBKjisVGl2aGJ0Pw9dJW0zIg&usqp=CAU" width="100" alt="minikube logo" width="100" alt="kubernetes logo
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsnG4_O5xcekXLHmn4zxH5pFXuQEpknhb3g&usqp=CAU" width="100" alt="docker logo">
+
 </p>
 
 

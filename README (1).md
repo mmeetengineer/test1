@@ -97,10 +97,11 @@ Before proceeding, ensure the following prerequisites are met:
  - [1. Docker Desktop](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [2. Jenkins](https://github.com/matiassingers/awesome-readme)
  - [3. PostgreSQL](https://bulldogjob.com) 
- - [4. Kubernetes](https://bulldogjob.com)   <img src="https://github.com/kubernetes/minikube/raw/master/images/logo/logo.png" width="100" alt="minikube logo">
+ - [4. Kubernetes](https://bulldogjob.com)   
  - [5. MultiStage Pipelines](https://bulldogjob.com)
 
 
+<img src="https://github.com/kubernetes/minikube/raw/master/images/logo/logo.png" width="100" alt="minikube logo">
 
 
 

@@ -60,7 +60,7 @@ Before proceeding, ensure the following prerequisites are met:
 •	Tag and push the images to a container registry.
 ### PostgreSQL Database Setup
 •	Create PostgreSQL database for development and testing
-### Version Control for Dockerfiles and Compose Files
+### Version Control for Dockerfiles 
 •	Store Dockerfiles and Kubernetes manifests in the version control system (Git).
 •	Ensure versioning and proper documentation for traceability.
 

@@ -24,19 +24,19 @@ A brief description of what this project does and who it's for
 
 * [Introduction](#Introduction)
 * [Prerequisites](#Prerequisites)
-* [Setting Up Development Environment](#Setting Up Development Environment) 
+* [Setting Up Development Environment](#Setting-Up-Development-Environment) 
    
-    + [Create Dockerized Development Images](#Create Dockerized Development Images)
-    + [PostgreSQL Database Setup](#PostgreSQL Database Setup)
-    + [Version Control for Dockerfiles](#Version Control for Dockerfiles)
- * [Automation with Jenkins Multi-Stage Pipeline](#Automation with Jenkins Multi-Stage Pipeline)
+    + [Create Dockerized Development Images](#Create-Dockerized-Development-Images)
+    + [PostgreSQL Database Setup](#PostgreSQL-Database-Setup)
+    + [Version Control for Dockerfiles](#Version-Control-for-Dockerfiles)
+ * [Automation with Jenkins Multi-Stage Pipeline](#Automation-with-Jenkins-Multi-Stage-Pipeline)
  
 
-    +  [Install Jenkins Plugins](#Install Jenkins Plugins)
-    +  [Configure Jenkins Integration](#Configure Jenkins Integration)
-    +  [Write Jenkinsfile](#Write Jenkinsfile)
-    +  [Integrate Kubernetes Deployment](#Integrate Kubernetes Deployment)
- * [Implementing CI/CD](#Implementing CI/CD) 
+    +  [Install Jenkins Plugins](#Install-Jenkins-Plugins)
+    +  [Configure Jenkins Integration](#Configure-Jenkins-Integration)
+    +  [Write Jenkinsfile](#Write-Jenkinsfile)
+    +  [Integrate Kubernetes Deployment](#Integrate-Kubernetes-Deployment)
+ * [Implementing CI/CD](#Implementing-CI/CD) 
  * [Conclusion](#Conclusion)
 
 

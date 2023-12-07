@@ -41,11 +41,11 @@ A brief description of what this project does and who it's for
 
 
 
-## Introduction
+# Introduction
 
 This comprehensive guide outlines the process of setting up a robust and scalable development environment using Docker, Kubernetes, PostgreSQL, and Jenkins multi-stage pipelines. The goal is to enhance the development workflow, improve collaboration, and automate the deployment process.
 
-## Prerequisites
+# Prerequisites
 
 Before proceeding, ensure the following prerequisites are met:  
 •	Docker is installed and running.  
@@ -53,7 +53,7 @@ Before proceeding, ensure the following prerequisites are met:
 •	PostgreSQL database server is accessible.  
 •	Jenkins is installed and configured.
 
-## Setting Up Development Environment
+# Setting Up Development Environment
 ### Create Dockerized Development Images
 •	Create Docker images for each application component, including the application services and dependencies.   
 •	Write Dockerfiles to define the environment and    package the applications.  

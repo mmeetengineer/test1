@@ -36,7 +36,7 @@ A brief description of what this project does and who it's for
     +  [Configure Jenkins Integration](#Configure-Jenkins-Integration)
     +  [Write Jenkinsfile](#Write-Jenkinsfile)
     +  [Integrate Kubernetes Deployment](#Integrate-Kubernetes-Deployment)
- * [Implementing CI/CD](#Implementing-CI/CD) 
+ * [Implementing CI-CD](#Implementing-CI-CD) 
  * [Conclusion](#Conclusion)
 
 
@@ -79,7 +79,7 @@ Before proceeding, ensure the following prerequisites are met:
 •	Use Kubernetes manifests (YAML files) for deploying the application.  
 •	Integrate Kubernetes commands into the Jenkins pipeline to apply the manifests.  
 •	Ensure secret management for sensitive Kubernetes configurations.
-# Implementing CI/CD
+# Implementing CI-CD
 •	Set up continuous integration to trigger the Jenkins pipeline on code changes.  
 •	Implement continuous deployment to automatically deploy to development or staging environments.
 # Conclusion

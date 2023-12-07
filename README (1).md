@@ -65,7 +65,7 @@ Before proceeding, ensure the following prerequisites are met:
 •	Ensure versioning and proper documentation for traceability.
 
 
-## Automation with Jenkins Multi-Stage Pipeline
+# Automation with Jenkins Multi-Stage Pipeline
 ### Install Jenkins Plugins
 •  Install necessary Jenkins plugins, including Docker, Kubernetes, git
 ### Configure Jenkins Integration
@@ -79,10 +79,10 @@ Before proceeding, ensure the following prerequisites are met:
 •	Use Kubernetes manifests (YAML files) for deploying the application.  
 •	Integrate Kubernetes commands into the Jenkins pipeline to apply the manifests.  
 •	Ensure secret management for sensitive Kubernetes configurations.
-## Implementing CI/CD
+# Implementing CI/CD
 •	Set up continuous integration to trigger the Jenkins pipeline on code changes.  
 •	Implement continuous deployment to automatically deploy to development or staging environments.
-## Conclusion
+# Conclusion
 • This guide provides a comprehensive approach to setting up a development environment using Docker, Kubernetes, PostgreSQL, and Jenkins multi-stage pipelines. By following these steps, your development team can achieve an efficient, scalable, and automated workflow, fostering collaboration and ensuring the reliability of your applications.
 
 ## Installation Documents

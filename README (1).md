@@ -25,7 +25,7 @@ A brief description of what this project does and who it's for
 
 
 
-## 1. Introduction
+## Introduction
 
 This comprehensive guide outlines the process of setting up a robust and scalable development environment using Docker, Kubernetes, PostgreSQL, and Jenkins multi-stage pipelines. The goal is to enhance the development workflow, improve collaboration, and automate the deployment process.
 

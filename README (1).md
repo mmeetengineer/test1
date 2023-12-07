@@ -102,6 +102,6 @@ Before proceeding, ensure the following prerequisites are met:
 
 
 <img src="https://github.com/kubernetes/minikube/raw/master/images/logo/logo.png" width="100" alt="minikube logo">
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPhsgRlzQckjgS-p3KTtXr2HmANpjpmeOmA&usqp=CAU" width="100" alt="jenkins logo">" width="100">
 
 

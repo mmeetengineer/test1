@@ -61,7 +61,7 @@ Before proceeding, ensure the following prerequisites are met:
 ### PostgreSQL Database Setup
 •	Create PostgreSQL database for development and testing
 ### Version Control for Dockerfiles 
-•	Store Dockerfiles and Kubernetes manifests in the version control system (Git).
+•	Store Dockerfiles and Kubernetes manifests in the version control system (Git).  
 •	Ensure versioning and proper documentation for traceability.
 ### Jenkins Setup 
 •  Install Jenkins Serve for CI/CD.  

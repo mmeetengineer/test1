@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Table of Contents
 
-* [1. Introduction](#1. Introduction)
+* [Introduction](#Introduction)
  - [2.	Prerequisites](https://github.com/matiassingers/awesome-readme)
  - [3.	Setting Up Development Environment](https://bulldogjob.com) 
    

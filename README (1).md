@@ -63,6 +63,13 @@ Before proceeding, ensure the following prerequisites are met:
 ### Version Control for Dockerfiles 
 •	Store Dockerfiles and Kubernetes manifests in the version control system (Git).
 •	Ensure versioning and proper documentation for traceability.
+### Jenkins Setup 
+•  Install Jenkins Serve for CI/CD.
+•  Create MultiStage Pipelines.
+### KUBERNETES
+•  Setup Kubernetes Cluster with Workernodes.
+•  Create deployment files and service file for application.
+
 
 
 # Automation with Jenkins Multi-Stage Pipeline

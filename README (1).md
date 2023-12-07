@@ -56,7 +56,7 @@ Before proceeding, ensure the following prerequisites are met:
 # Setting Up Development Environment
 ### Create Dockerized Development Images
 •	Create Docker images for each application component, including the application services and dependencies.   
-•	Write Dockerfiles to define the environment and    package the applications.  
+•	Write Dockerfiles to define the environment and package the applications.  
 •	Tag and push the images to a container registry.
 ### PostgreSQL Database Setup
 •	Create PostgreSQL database for development and testing
@@ -64,10 +64,10 @@ Before proceeding, ensure the following prerequisites are met:
 •	Store Dockerfiles and Kubernetes manifests in the version control system (Git).
 •	Ensure versioning and proper documentation for traceability.
 ### Jenkins Setup 
-•  Install Jenkins Serve for CI/CD.
+•  Install Jenkins Serve for CI/CD.  
 •  Create MultiStage Pipelines.
 ### KUBERNETES
-•  Setup Kubernetes Cluster with Workernodes.
+•  Setup Kubernetes Cluster with Workernodes.  
 •  Create deployment files and service file for application.
 
 

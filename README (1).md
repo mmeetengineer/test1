@@ -101,6 +101,12 @@ Before proceeding, ensure the following prerequisites are met:
  - [4. Kubernetes](https://bulldogjob.com)   
  - [5. MultiStage Pipelines](https://bulldogjob.com)
 
+# URL to access Envrionment
+
+MSM-LOGIN   - http://login-dev-msm.yosatech.com 
+API-GATEWAY - http://msm-api.yosatech.com
+MSM-PM      - http://msm-pm-dev-msm.yosatech.com
+
 # Microservices running on Kubernetes
 •	Gateway-service    
 •	Gateway-config-service    

@@ -102,9 +102,9 @@ Before proceeding, ensure the following prerequisites are met:
  - [5. MultiStage Pipelines](https://bulldogjob.com)
 
 <p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4A8E_kO-DE6QSti1OnWagG9mrxtzveVIRc1qzr9gSIKD4iXiOCYee28NAx8_6hF9EnE4&usqp=CAU" width="170" alt="Github logo"  width="170"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPhsgRlzQckjgS-p3KTtXr2HmANpjpmeOmA&usqp=CAU" width="70" alt="jenkins logo" width="90">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdW1bG-RWHItwH8Z9dynMKpRIrmlfoVTuMg&usqp=CAU" width="100" alt="kubernetes logo" width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4A8E_kO-DE6QSti1OnWagG9mrxtzveVIRc1qzr9gSIKD4iXiOCYee28NAx8_6hF9EnE4&usqp=CAU" width="170" alt="Github logo"  width="170">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_F14LIo8kjgHDGf8n55hsnsZLduXUnXS2g&usqp=CAU" width="250" alt="Postgresql logo"  width="250">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zSMpQMz-5tqsi1aU_2jK1TQUrnA98cWUlg&usqp=CAU" width="100" alt="Postgresql logo"  width="100">
 </p>

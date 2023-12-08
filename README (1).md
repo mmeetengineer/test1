@@ -59,6 +59,7 @@ Before proceeding, ensure the following prerequisites are met:
 •	Write Dockerfiles to define the environment and package the applications.  
 •	Tag and push the images to a container registry.
 ### PostgreSQL Database Setup
+•	Install PostgreSql Server.
 •	Create PostgreSQL database for development and testing
 ### Version Control for Dockerfiles 
 •	Store Dockerfiles and Kubernetes manifests in the version control system (Git).  

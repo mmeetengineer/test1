@@ -102,7 +102,7 @@ Before proceeding, ensure the following prerequisites are met:
 
 <p>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsnG4_O5xcekXLHmn4zxH5pFXuQEpknhb3g&usqp=CAU" width="200" alt="docker logo">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPhsgRlzQckjgS-p3KTtXr2HmANpjpmeOmA&usqp=CAU" width="100" alt="jenkins logo" width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPhsgRlzQckjgS-p3KTtXr2HmANpjpmeOmA&usqp=CAU" width="80" alt="jenkins logo" width="80">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdW1bG-RWHItwH8Z9dynMKpRIrmlfoVTuMg&usqp=CAU" width="100" alt="kubernetes logo" width="100">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_F14LIo8kjgHDGf8n55hsnsZLduXUnXS2g&usqp=CAU" width="250" alt="Postgresql logo"  width="250">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zSMpQMz-5tqsi1aU_2jK1TQUrnA98cWUlg&usqp=CAU" width="100" alt="Postgresql logo"  width="100">

@@ -98,7 +98,7 @@ Before proceeding, ensure the following prerequisites are met:
  - [1. Docker Desktop](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [2. Jenkins](https://github.com/matiassingers/awesome-readme)
  - [3. PostgreSQL](https://bulldogjob.com) 
- - [4. Kubernetes](https://bulldogjob.com)   
+ - [4. Kubernetes](https://github.com/keyotechMSM/Documentation/blob/main/DevOps/MSM%20Deployment%20Document%20for%20Dev%20Environment.docx)   
  - [5. MultiStage Pipelines](https://bulldogjob.com)
 
 # URL to access Envrionment

@@ -101,6 +101,21 @@ Before proceeding, ensure the following prerequisites are met:
  - [4. Kubernetes](https://bulldogjob.com)   
  - [5. MultiStage Pipelines](https://bulldogjob.com)
 
+### Microservices running on Kubernetes
+•	Gateway-service    
+•	Gateway-config-service    
+•	Audit-trail-service  
+•	Authentication-service    
+•	Serivice-registry-service    
+•	MSM-login-service  
+•	User-management-service  
+•	MSM-PM-service    
+•	Provider-service  
+•	gateway-service    
+•	Master-table-service  
+•	Location-service  
+
+
 <p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPhsgRlzQckjgS-p3KTtXr2HmANpjpmeOmA&usqp=CAU" width="70" alt="jenkins logo" width="90">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdW1bG-RWHItwH8Z9dynMKpRIrmlfoVTuMg&usqp=CAU" width="100" alt="kubernetes logo" width="100">

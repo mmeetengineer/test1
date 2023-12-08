@@ -103,8 +103,8 @@ Before proceeding, ensure the following prerequisites are met:
 
 # URL to access Envrionment
 
-MSM-LOGIN   - http://login-dev-msm.yosatech.com 
-API-GATEWAY - http://msm-api.yosatech.com
+MSM-LOGIN   - http://login-dev-msm.yosatech.com  
+API-GATEWAY - http://msm-api.yosatech.com  
 MSM-PM      - http://msm-pm-dev-msm.yosatech.com
 
 # Microservices running on Kubernetes

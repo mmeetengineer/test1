@@ -101,7 +101,7 @@ Before proceeding, ensure the following prerequisites are met:
  - [4. Kubernetes](https://github.com/keyotechMSM/Documentation/blob/main/DevOps/MSM%20Deployment%20Document%20for%20Dev%20Environment.docx)   
  - [5. MultiStage Pipelines](https://bulldogjob.com)
 
-# URL to access Envrionment
+# URL to access DEV Envrionment
 
 MSM-LOGIN   - http://login-dev-msm.yosatech.com  
 API-GATEWAY - http://msm-api.yosatech.com  

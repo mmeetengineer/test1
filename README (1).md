@@ -107,11 +107,6 @@ MSM-LOGIN   - http://login-dev-msm.yosatech.com
 API-GATEWAY - http://msm-api.yosatech.com  
 MSM-PM      - http://msm-pm-dev-msm.yosatech.com
 
-# Login Credentials for MSM-login
-•	Practice Code - PPSAVANI01     
-•	User Code - jivrajmehata   
-•	Password - admin@admin1234
-
 
 # Microservices running on Kubernetes
 •	Gateway-service    

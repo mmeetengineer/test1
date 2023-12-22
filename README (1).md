@@ -95,11 +95,10 @@ Before proceeding, ensure the following prerequisites are met:
 
 ## Installation Documents
 
- - [1. Docker Desktop](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [2. Jenkins](https://github.com/matiassingers/awesome-readme)
- - [3. PostgreSQL](https://bulldogjob.com) 
- - [4. Kubernetes](https://github.com/keyotechMSM/Documentation/blob/main/DevOps/MSM%20Deployment%20Document%20for%20Dev%20Environment.docx)   
- - [5. MultiStage Pipelines](https://bulldogjob.com)
+ - [1. Docker Desktop](https://github.com/keyotechMSM/Documentation/blob/main/DevOps/DockerDesktop.docx)
+ - [2. Jenkins](https://github.com/keyotechMSM/Documentation/blob/main/DevOps/Jenkins.docx)
+ - [3. PostgreSQL](https://github.com/keyotechMSM/Documentation/blob/main/DevOps/How%20to%20Install%20PostgreSQL%20on%20CentOS%207.docx) 
+ - [4. Kubernetes](https://github.com/keyotechMSM/Documentation/blob/main/DevOps/How%20to%20install%20Kubernetes%20on%20CentOS%207.docx)  - [5. MultiStage Pipelines](https://github.com/keyotechMSM/Documentation/blob/main/DevOps/Jenkins%20multiple%20stages%20pipeline.doc)
 
 # URL to access DEV Envrionment
 

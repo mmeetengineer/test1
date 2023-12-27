@@ -7,9 +7,9 @@
 |Production|
 
 ---
-name: Bug report
-about: Problems and issues with code or docs
-title: ''
-labels: kind/bug
-assignees: ''
+name: Bug report  
+about: Problems and issues with code or docs  
+title: ''  
+labels: kind/bug  
+assignees: ''  
 ---

@@ -1,4 +1,4 @@
-# ENVIRONMENT INFO
+# Environment Info
 
 | Environment | Database | Login URLs | PracticeCode | UserCode | Password | API URLs
 |:--------  | :-------- | :-------------------- | :-------- | :------- | :---------- | :---------- |
